@@ -13301,6 +13301,11 @@ F:	drivers/hid/hid-roccat*
 F:	include/linux/hid-roccat*
 F:	Documentation/ABI/*/sysfs-driver-hid-roccat*
 
+ROCCAT VULCAN DRIVER
+M:	Tobias Büttner <t.linux@spiritcroc.de>
+S:	Maintained
+F:	drivers/hid/hid-roccat-vulcan.c
+
 ROCKCHIP RASTER 2D GRAPHIC ACCELERATION UNIT DRIVER
 M:	Jacob chen <jacob2.chen@rock-chips.com>
 L:	linux-media@vger.kernel.org
